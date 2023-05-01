@@ -1,0 +1,16 @@
+{
+"ENABLED": true,
+"WEBSITE_TO_TRACK": {
+    "natboard_allnotice_website": "https://natboard.edu.in/allnotice.php",
+    "natboard_index_website": "https://natboard.edu.in/index",
+    "aiims_exams_website": "https://www.aiimsexams.ac.in"
+},
+"PHONE_TO_NOTIFY": {
+    "AL": "",
+    "AD": "",
+    "RO": "",
+    "DA": "",
+    "HA": "",
+    "DI": ""
+}
+}
